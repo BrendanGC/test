@@ -7,7 +7,7 @@ configReactDriveCms = {
     /**
      * Add the Url Id for the Google Web App Script to forward email from the Contact Form
      */
-    sendMailUrlId: 'https://drive.google.com/open?id=14cFxrjW2482ITPyZLxUlWrbrz-uK0MqoPsDx0AOFLrLQl7YA6a3536q4',
+    sendMailUrlId: 'https://script.google.com/macros/s/AKfycbw82S_KX1CmWLFbx_B3LA44fd8iamCAhmEU-JI-bfK8nrkh7iU/exec',
     /**
      * Add your Disqus shortname
      */
